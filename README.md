@@ -1,7 +1,5 @@
 # AniSearch
-____
 
 
 
-
-![Alt-текст]([https://avatars1.githubusercontent.com/u/5384215?v=3&s=460](https://drive.google.com/file/d/1uY7DTZONgqWxF99pWJ0eCJFTnntvwTZ1/view?usp=sharing))
+![AniSearchDB](https://user-images.githubusercontent.com/77646541/173437372-00af1e30-bf79-4472-8782-a6d14e758d00.png)
