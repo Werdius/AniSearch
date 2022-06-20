@@ -1,12 +1,12 @@
 # AniSearch
-Финальным продуктом является создание системы "AniSearch" способной предоставить и изменить информацию по необходимости при использовании БД.
-Проект содержит в себе составные информационные елементы, такие как: год выпуска, режиссёр, жанр, оценка составленная по отзывам пользователей,
-пользовательский личный кабинет, тип и наименование анимационного сериала. В технической части так же возможности поиска, сортировки и накопления
-общей оценки для получения данных. В связи с предметной областью необходимыми функциональными возможностями являються :
-* Каждое аниме предоставлено как полнометражное/многосерийное/OVA
-* Рейтинг аниме формируется по отзывам польователей
-* Для каждого аниме указан его режиссёр, жанр и год выпуска
-* Каждый режиссёр имеет свою фильмографию, с указанными предпочтительными жанрами творчества
-* У всех аниме может быть несколько жанров
-* Пользователь волен указывать свой статус на своей странице
+The final product is the creation of the system "AniSearch" capable of providing and modifying information as needed when using the database.
+The project contains composite information elements, such as: year of release, director, genre, rating based on user reviews,
+user personal account, type and name of the animated series. In the technical part, the possibility of searching, sorting and accumulating
+total score to get data. In connection with the subject area, the necessary functionality is:
+* Each anime is provided as a feature/series/OVA
+* Anime rating is based on user reviews
+* For each anime, its director, genre and year of release are indicated
+* Each director has his own filmography, with the indicated preferred genres of creativity
+* All anime can have multiple genres
+* The user is free to indicate his status on his page
 ![AniSearchDB](https://user-images.githubusercontent.com/77646541/173437372-00af1e30-bf79-4472-8782-a6d14e758d00.png)
