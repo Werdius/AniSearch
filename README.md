@@ -9,4 +9,5 @@ total score to get data. In connection with the subject area, the necessary func
 * Each director has his own filmography, with the indicated preferred genres of creativity
 * All anime can have multiple genres
 * The user is free to indicate his status on his page
+
 ![AniSearchDB](https://user-images.githubusercontent.com/77646541/173437372-00af1e30-bf79-4472-8782-a6d14e758d00.png)
